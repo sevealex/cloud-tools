@@ -1,5 +1,5 @@
 {
-    "name": "google/cloud-tools",
+    "name": "sevealex/cloud-tools",
     "description": "PHP tools for Google Cloud Platform",
     "keywords": ["test", "appengine", "gcp"],
     "homepage": "https://github.com/GoogleCloudPlatform/php-tools",
